@@ -1,4 +1,4 @@
-# Employee-Management-backend
+# Employee Management System (backend)
 
 
 Framework and tools: Spring Boot, MySQL
