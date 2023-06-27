@@ -1,4 +1,4 @@
 # Employee Management System (backend)
 
 
-Framework and tools: Spring Boot, MySQL, MyBatis
+Framework and tools: Java, Spring Boot, MySQL, MyBatis
